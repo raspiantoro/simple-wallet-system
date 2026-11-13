@@ -1,6 +1,6 @@
 # Simple Wallet System
 
-This repository contains the source code examples from the article **[Make the C# Compiler Tell You What You Forgot](ARTICLE_LINK)**.
+This repository contains the source code examples from the article **[Make the C# Compiler Tell You What You Forgot](https://medium.com/@marioraspiantoro/make-the-c-compiler-tell-you-what-you-forgot-805247221e77)**.
 
 The examples demonstrate how C# union types can help model a fixed set of wallet transaction types and allow the compiler to detect missing cases in pattern matching.
 
@@ -17,7 +17,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/raspiantoro/simple-wallet-system.git
-cd SimpleWalletSystem
+cd simple-wallet-system
 ```
 
 Run the application:
